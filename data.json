@@ -1,0 +1,58 @@
+{
+    "data" : [
+            {
+                "Striver" :[
+                    {
+                        "Arrays":
+                        {
+                            "id":"A01",
+                            "status":"0",
+                            "title":"Contains Duplicate",
+                            "difficulty":"Easy",
+                            "link":"https://leetcode.com/problems/contains-duplicate/",
+                            "solution":"https://youtu.be/3OamzN90kPg"
+                        }
+                    },
+                    {
+                        "Two Pointers":
+                        {
+                            "id":"TP01",
+                            "status":"0",
+                            "title":"Valid Palindrome",
+                            "difficulty":"Easy",
+                            "link":"https://leetcode.com/problems/valid-palindrome/",
+                            "solution":"https://youtu.be/jJXJ16kPFWg"
+                        }
+                    }
+                
+                ]
+            },
+            {
+                "Love" :[
+                    {
+                        "Arrays":
+                        {
+                            "id":"A01",
+                            "status":"0",
+                            "title":"Contains Duplicate",
+                            "difficulty":"Easy",
+                            "link":"https://leetcode.com/problems/contains-duplicate/",
+                            "solution":"https://youtu.be/3OamzN90kPg"
+                        }
+                    },
+                    {
+                        "Two Pointers":
+                        {
+                            "id":"TP01",
+                            "status":"0",
+                            "title":"Valid Palindrome",
+                            "difficulty":"Easy",
+                            "link":"https://leetcode.com/problems/valid-palindrome/",
+                            "solution":"https://youtu.be/jJXJ16kPFWg"
+                        }
+                    }
+                
+                ]
+            }
+    ]
+}
