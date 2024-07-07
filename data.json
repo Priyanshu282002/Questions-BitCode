@@ -33,7 +33,7 @@
                     {
                         "id":"A01",
                         "status":"0",
-                        "title":"Contains Duplicate",
+                        "title":"Contains Duplicate 2",
                         "difficulty":"Easy",
                         "link":"https://leetcode.com/problems/contains-duplicate/",
                         "solution":"https://youtu.be/3OamzN90kPg"
@@ -46,7 +46,7 @@
                     {
                         "id":"TP01",
                         "status":"0",
-                        "title":"Valid Palindrome",
+                        "title":"Valid Palindrome 2",
                         "difficulty":"Easy",
                         "link":"https://leetcode.com/problems/valid-palindrome/",
                         "solution":"https://youtu.be/jJXJ16kPFWg"
