@@ -1,7 +1,7 @@
 {
     "data" : {
-            "Striver" :[
-                {
+            "Striver" :{
+                "Array":{
                 "tag":"Array",
                 "questions":[
                     {
@@ -14,7 +14,7 @@
                     }
                 ]
             },
-            {
+            "Two Pointers":{
                 "tag":"Two Pointers",
                 "questions":[
                     {
@@ -26,8 +26,9 @@
                         "solution":"https://youtu.be/jJXJ16kPFWg"
                     }
                 ]
-            }],
-            "Love" :[{
+            }},
+            "Love" :{
+                "Array":{
                 "tag":"Array",
                 "questions":[
                     {
@@ -40,7 +41,7 @@
                     }
                 ]
             },
-            {
+            "Two Pointers":{
                 "tag":"Two Pointers",
                 "questions":[
                     {
@@ -52,6 +53,6 @@
                         "solution":"https://youtu.be/jJXJ16kPFWg"
                     }
                 ]
-            }]
+            }}
         }
 }
