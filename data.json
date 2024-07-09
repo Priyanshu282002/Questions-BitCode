@@ -11,6 +11,14 @@
                         "difficulty":"Easy",
                         "link":"https://leetcode.com/problems/contains-duplicate/",
                         "solution":"https://youtu.be/3OamzN90kPg"
+                    },
+                    {
+                        "id":"A02",
+                        "status":"0",
+                        "title":"Contains Duplicate III",
+                        "difficulty":"Hard",
+                        "link":"https://leetcode.com/problems/contains-duplicate-iii/",
+                        "solution":"https://youtu.be/3OamzN90kPg"
                     }
                 ]
             },
